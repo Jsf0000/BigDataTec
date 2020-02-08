@@ -13,7 +13,9 @@ EDA
 - La escogencia y limpieza de datos, asi como uso de prostgresql es realizada en estos jupyternotebooks
 
 MLEDAPart1.ipynb
+	https://github.com/Jsf0000/BigDataTec/blob/master/ProyectoFinalParte2/MLEDAPart1.ipynb
 MLEDAPART2.ipynb
+	https://github.com/Jsf0000/BigDataTec/blob/master/ProyectoFinalParte2/MLEDAPART2.ipynb
 
 Entrenamiento y validación de algoritmos 
 
@@ -21,10 +23,16 @@ Todo la transformación de datos y prueba de algoritmos es realizada en este jup
 
 MLEntrenamientoyValidacionPart3.ipynb
 
+	https://github.com/Jsf0000/BigDataTec/blob/master/ProyectoFinalParte2/MLEntrenamientoyValidacionPart3.ipynb
+
 
 Optimizacion de algoritmo Random Forest
 Al final se utiliza crossvalidation, dicho proceso es realizado en este jupyternote, donde se presenta el modelo mejor optimizado con varios hyperparametros
 
 
 MLOptmizacionFinalPart4.ipynb
+
+	https://github.com/Jsf0000/BigDataTec/blob/master/ProyectoFinalParte2/MLOptmizacionFinalPart4.ipynb
+
+
 
