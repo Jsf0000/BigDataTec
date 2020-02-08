@@ -1,0 +1,30 @@
+Notas importantes
+
+El proyecto parte 2 se divide en cuatro Jupyternotes
+
+Link del repositorio:
+
+https://github.com/Jsf0000/BigDataTec/tree/master/ProyectoFinalParte2
+
+Aunque el profesor pidio una jupyternotebook, era demasiado dificil, correr esa jupyternote debido al dataset que era es grande al procesamiento que dura demasiado, por lo cual se decide dividirlo en 4 cuatro jupyternotebooks
+
+
+EDA
+- La escogencia y limpieza de datos, asi como uso de prostgresql es realizada en estos jupyternotebooks
+
+MLEDAPart1.ipynb
+MLEDAPART2.ipynb
+
+Entrenamiento y validación de algoritmos 
+
+Todo la transformación de datos y prueba de algoritmos es realizada en este jupyternotebook
+
+MLEntrenamientoyValidacionPart3.ipynb
+
+
+Optimizacion de algoritmo Random Forest
+Al final se utiliza crossvalidation, dicho proceso es realizado en este jupyternote, donde se presenta el modelo mejor optimizado con varios hyperparametros
+
+
+MLOptmizacionFinalPart4.ipynb
+
