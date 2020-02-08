@@ -6,7 +6,7 @@ Link del repositorio:
 
 https://github.com/Jsf0000/BigDataTec/tree/master/ProyectoFinalParte2
 
-Aunque el profesor pidio una jupyternotebook, era demasiado dificil, correr esa jupyternote debido al dataset que era es grande al procesamiento que dura demasiado, por lo cual se decide dividirlo en 4 cuatro jupyternotebooks
+Aunque el profesor pidio solo una jupyternotebook era demasiado dificil correr esa jupyternote debido al dataset que es muy grande, por lo cual el procesamiento  dura demasiado, por lo tanto se decide dividirlo en 4 cuatro jupyternotebooks
 
 
 EDA
@@ -27,7 +27,8 @@ MLEntrenamientoyValidacionPart3.ipynb
 
 
 Optimizacion de algoritmo Random Forest
-Al final se utiliza crossvalidation, dicho proceso es realizado en este jupyternote, donde se presenta el modelo mejor optimizado con varios hyperparametros
+
+Al final se utiliza crossvalidation, dicho proceso es realizado en este jupyternote donde se presenta el modelo con la mejor optimización con varios hyperparametros
 
 
 MLOptmizacionFinalPart4.ipynb
